@@ -1,7 +1,5 @@
-# fuel-evoucher-system
+# Fuel E-voucher System
 Internship project portfolio: Studi kasus sistem e-voucher yang dikembangkan saat magang untuk digitalisasi distribusi BBM kendaraan operasional rumah sakit. Dilengkapi fitur pelacakan dan manajemen kuota. Source code bersifat private untuk mematuhi NDA dan menjaga kerahasiaan data fasilitas kesehatan. Halaman ini berisi arsitektur &amp; alur sistem.
-
-# 🚑 Hospital Fleet E-Voucher Management System
 
 > **Disclaimer Kerahasiaan (NDA):**
 > Repository ini adalah dokumentasi portofolio dari proyek Magang Hub Kemnaker Batch 2 di rumah sakit. Demi mematuhi Non-Disclosure Agreement (NDA) dan menjaga kerahasiaan data operasional serta privasi rumah sakit, *source code* asli tidak dapat dipublikasikan. Halaman ini berfokus pada studi kasus, arsitektur sistem, dan penyelesaian masalah (*problem-solving*).
