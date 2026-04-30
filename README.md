@@ -55,4 +55,5 @@ Berikut adalah penyelesaian masalah utama (*problem-solving*) yang berhasil dica
 ## Tampilan Dashboard Admin Rumah Sakit & Scan QR SPBU
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/a4410a15-f49d-4d48-a3d2-2f7a30a8d53f" />
 <br>
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/b37bff0e-228c-400a-a50f-31f9e63727b2" />
+<img width="1920" height="1080" alt="portofolio evo" src="https://github.com/user-attachments/assets/d6d12989-5c22-4274-a26d-e046e76dfa03" />
+
