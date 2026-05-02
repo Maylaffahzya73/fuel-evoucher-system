@@ -36,7 +36,7 @@ Dalam proyek ini, saya dipercaya penuh sebagai **Fullstack Web Developer (Intern
 ## Dampak & Hasil (Impact) 
 Berikut adalah penyelesaian masalah utama (*problem-solving*) yang berhasil dicapai:
 
-* **Efisiensi Waktu Persetujuan (*Approval*) yang Drastis:**
+* **Efisiensi Waktu Persetujuan (*Approval*) :**
   * **Sebelum:** Pengajuan pengisian BBM menggunakan dokumen kertas yang harus memutar dari meja ke meja, memakan waktu **12 hingga 24 jam** hanya untuk mendapatkan izin dan tanda tangan manual.
   * **Sesudah:** Birokrasi dipangkas. Proses *approval* kini berjalan secara *real-time* dalam hitungan menit (Admin cukup memvalidasi dan melakukan klik persetujuan pada sistem).
 
