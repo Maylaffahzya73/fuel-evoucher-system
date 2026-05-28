@@ -9,7 +9,7 @@ Internship project portfolio: Studi kasus sistem e-voucher yang dikembangkan saa
 ## Latar Belakang Proyek
 Rumah sakit membutuhkan sistem yang cepat dan efisien untuk mengelola distribusi Bahan Bakar Minyak (BBM) bagi kendaraan operasional harian, seperti ambulans, mobil dinas eselon, kendaraan kurir, dan jerigen. Sebelumnya, proses ini dilakukan secara manual yang rentan terhadap antrean panjang, pencatatan yang tidak akurat, dan kesulitan dalam pelacakan kuota.
 
-Sistem E-Voucher ini dibangun berbasis web yang digunakan untuk digitalisasi pengelolaan dan penyaluran kuota BBM bagi kendaraan operasional rumah sakit. Sistem ini menggantikan pencatatan manual dengan mekanisme Kode QR, memastikan transparansi transaksi antara pengguna (pegawai/driver) pihak Rumah Sakit dan operator SPBU mitra secara real-time. Dalam 
+Sistem E-Voucher ini dibangun berbasis web yang digunakan untuk digitalisasi pengelolaan dan penyaluran kuota BBM bagi kendaraan operasional rumah sakit. Sistem ini menggantikan pencatatan manual dengan mekanisme Kode QR, memastikan transparansi transaksi antara pengguna (pegawai/driver) pihak Rumah Sakit dan operator SPBU mitra secara real-time. 
 
 ## Peran & Tanggung Jawab
 Dalam proyek ini, saya dipercaya penuh sebagai **Fullstack Web Developer (Intern)** untuk membangun sistem dari nol hingga siap diimplementasikan. Tanggung jawab utama saya meliputi:
